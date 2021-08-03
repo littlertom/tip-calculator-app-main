@@ -1,0 +1,19 @@
+:root {
+    --strongcyan: hsl(172, 67%, 45%);
+    --vdarkcyan: hsl(183, 100%, 15%);
+    --darkgraycyan: hsl(186, 14%, 43%);
+    --lessdarkgraycyan: hsl(184, 14%, 56%);
+    --lightgraycyan: hsl(185, 41%, 84%);
+    --lightergraycyan: hsl(189, 41%, 97%);
+    --white: hsl(0, 0%, 100%);
+    
+}
+
+
+
+body {
+    font-size: 24px;
+}
+
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
